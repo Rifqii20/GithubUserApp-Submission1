@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res"/><source path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\build\generated\res\rs\debug"/><source path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res"><file name="ic_launcher_background" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="user1" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\drawable\user1.png" qualifiers="" type="drawable"/><file name="user10" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\drawable\user10.png" qualifiers="" type="drawable"/><file name="user2" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\drawable\user2.png" qualifiers="" type="drawable"/><file name="user3" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\drawable\user3.png" qualifiers="" type="drawable"/><file name="user4" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\drawable\user4.png" qualifiers="" type="drawable"/><file name="user5" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\drawable\user5.png" qualifiers="" type="drawable"/><file name="user6" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\drawable\user6.png" qualifiers="" type="drawable"/><file name="user7" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\drawable\user7.png" qualifiers="" type="drawable"/><file name="user8" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\drawable\user8.png" qualifiers="" type="drawable"/><file name="user9" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\drawable\user9.png" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\drawable-v24\ic_launcher_foreground.xml" qualifiers="v24" type="drawable"/><file name="activity_main" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="github_users" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\layout\github_users.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\mipmap-hdpi\ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\mipmap-hdpi\ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\mipmap-mdpi\ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\mipmap-mdpi\ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\mipmap-xhdpi\ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\mipmap-xhdpi\ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\mipmap-xxhdpi\ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\values\colors.xml" qualifiers=""><color name="gray_dark">#455A64</color><color name="gray_light">#65767E</color><color name="purple_200">#FFBB86FC</color><color name="purple_500">#000000</color><color name="purple_700">#000000</color><color name="teal_200">#FF03DAC5</color><color name="teal_700">#FF018786</color><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color><color name="light_blue">#1A5A8A</color><color name="purple">#7B4CA5</color><color name="purple_b">#4F2599</color></file><file path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">GithubUserApp</string><string name="user">User</string><string name="username">Username</string><string name="company">Company</string><string name="share">Share</string><string name="name">Name</string><string name="user_details_information">User Details Information</string><string name="button">Share</string><string-array name="username">
+        <item>JakeWharton</item>
+        <item>amitshekhariitbhu</item>
+        <item>romainguy</item>
+        <item>chrisbanes</item>
+        <item>tipsy</item>
+        <item>ravi8x</item>
+        <item>jasoet</item>
+        <item>budioktaviyan</item>
+        <item>hendisantika</item>
+        <item>sidiqpermana</item>
+    </string-array><string-array name="name">
+        <item>Jake Wharton</item>
+        <item>Amit Shekhar</item>
+        <item>Romain Guy</item>
+        <item>Chris Banes</item>
+        <item>David</item>
+        <item>Ravi Tamada</item>
+        <item>Deny Prasetyo</item>
+        <item>Budi Oktaviyan</item>
+        <item>Hendi Santika</item>
+        <item>Sidiq Permana</item>
+    </string-array><string-array name="location">
+        <item>Pittsburgh, PA, USA</item>
+        <item>New Delhi, India</item>
+        <item>California</item>
+        <item>Sydney, Australia</item>
+        <item>Trondheim, Norway</item>
+        <item>India</item>
+        <item>Kotagede, Yogyakarta, Indonesia</item>
+        <item>Jakarta, Indonesia</item>
+        <item>Bojongsoang - Bandung Jawa Barat</item>
+        <item>Jakarta Indonesia</item>
+    </string-array><string-array name="repository">
+        <item>102</item>
+        <item>37</item>
+        <item>9</item>
+        <item>30</item>
+        <item>56</item>
+        <item>28</item>
+        <item>44</item>
+        <item>110</item>
+        <item>1064</item>
+        <item>65</item>
+    </string-array><string-array name="company">
+        <item>Google, Inc.</item>
+        <item>MindOrksOpenSource</item>
+        <item>Google</item>
+        <item>Google working on @android</item>
+        <item>Working Group Two</item>
+        <item>AndroidHive | Droid5</item>
+        <item>gojek-engineering</item>
+        <item>KotlinID</item>
+        <item>JVMDeveloperID @KotlinID @IDDevOps</item>
+        <item>Nusantara Beta Studio</item>
+    </string-array><string-array name="followers">
+        <item>56995</item>
+        <item>5153</item>
+        <item>7972</item>
+        <item>14725</item>
+        <item>788</item>
+        <item>18628</item>
+        <item>277</item>
+        <item>178</item>
+        <item>428</item>
+        <item>465</item>
+    </string-array><string-array name="following">
+        <item>12</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>39</item>
+        <item>23</item>
+        <item>61</item>
+        <item>10</item>
+    </string-array><string-array name="avatar">
+        <item>@drawable/user1</item>
+        <item>@drawable/user2</item>
+        <item>@drawable/user3</item>
+        <item>@drawable/user4</item>
+        <item>@drawable/user5</item>
+        <item>@drawable/user6</item>
+        <item>@drawable/user7</item>
+        <item>@drawable/user8</item>
+        <item>@drawable/user9</item>
+        <item>@drawable/user10</item>
+    </string-array></file><file path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.GithubUserApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style></file><file path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.GithubUserApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style></file><file name="backup_rules" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/><file name="logo_github" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\drawable\logo_github.png" qualifiers="" type="drawable"/><file name="ic_location_18dp" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\drawable-v24\ic_location_18dp.xml" qualifiers="v24" type="drawable"/><file name="ic_share_18dp" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\drawable-v24\ic_share_18dp.xml" qualifiers="v24" type="drawable"/><file name="activity_detail" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\layout\activity_detail.xml" qualifiers="" type="layout"/><file path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\values\style.xml" qualifiers=""><style name="btn" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:backgroundTint">@color/purple</item>
+    </style><style name="tvList" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:typeface">sans</item>
+    </style><style name="tvDetail" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:gravity">center</item>
+    </style><style name="tvDetail.akun">
+        <item name="android:textSize">18sp</item>
+        <item name="android:padding">4dp</item>
+    </style><style name="tvDetail.akun.bold">
+        <item name="android:textStyle">bold</item>
+    </style></file><file name="activity_splash_screen" path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\main\res\layout\activity_splash_screen.xml" qualifiers="" type="layout"/></source><source path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\build\generated\res\rs\debug"/><source path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\strik\OneDrive\Documents\AndroidStudioProjects\GithubUserApp\app\src\debug\res"/></dataSet><mergedItems/></merger>

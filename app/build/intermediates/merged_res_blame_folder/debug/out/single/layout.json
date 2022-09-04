@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.dicoding.rifqi.githubuserapp-mergeDebugResources-29:/layout/activity_splash_screen.xml",
+        "source": "com.dicoding.rifqi.githubuserapp-main-32:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\strik\\.gradle\\daemon\\7.3.3\\com.dicoding.rifqi.githubuserapp-mergeDebugResources-29:\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\strik\\.gradle\\daemon\\7.3.3\\com.dicoding.rifqi.githubuserapp-main-32:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\strik\\.gradle\\daemon\\7.3.3\\com.dicoding.rifqi.githubuserapp-mergeDebugResources-29:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\strik\\.gradle\\daemon\\7.3.3\\com.dicoding.rifqi.githubuserapp-main-32:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\strik\\.gradle\\daemon\\7.3.3\\com.dicoding.rifqi.githubuserapp-mergeDebugResources-29:\\layout\\github_users.xml",
+        "source": "C:\\Users\\strik\\.gradle\\daemon\\7.3.3\\com.dicoding.rifqi.githubuserapp-main-32:\\layout\\github_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\strik\\.gradle\\daemon\\7.3.3\\com.dicoding.rifqi.githubuserapp-mergeDebugResources-29:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\strik\\.gradle\\daemon\\7.3.3\\com.dicoding.rifqi.githubuserapp-main-32:\\layout\\activity_main.xml"
+    }
+]
