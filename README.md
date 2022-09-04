@@ -3,7 +3,7 @@ Github User App
 
 Fitur yang harus ada pada aplikasi:
 
-List User
+### List User
 
 Syarat:
 
@@ -13,13 +13,13 @@ Menggunakan ConstraintLayout untuk menyusun tampilan List Item untuk RecyclerVie
 Tidak terdapat nested hierarki (ViewGroup di dalam ViewGroup)
 Setiap view memiliki constraint yang sesuai
 
-Detail User
+### Detail User
 
 Syarat:
 
 Terdapat informasi detail dari seorang user. Berikut beberapa informasi yang wajib ditampilkan pada halaman aplikasi:
-  - Username
-  - Name
-  - Avatar
+- [x] Username
+- [x] Name
+- [x] Avatar
  
 Menggunakan Parcelable sebagai interface dari obyek data yang akan dikirimkan antar Activity.
