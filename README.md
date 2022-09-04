@@ -17,4 +17,5 @@ Terdapat informasi detail dari seorang user. Berikut beberapa informasi yang waj
   - Username
   - Name
   - Avatar
+ 
 Menggunakan Parcelable sebagai interface dari obyek data yang akan dikirimkan antar Activity.
