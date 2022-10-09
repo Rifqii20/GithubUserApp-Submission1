@@ -1,4 +1,4 @@
-# GithubUserApp-Submission1
+# GithubUserApp Submission 1
 Github User App
 
 Fitur yang harus ada pada aplikasi:
